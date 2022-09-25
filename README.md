@@ -22,10 +22,10 @@
 
 **Helpful Links:**
 
- [Ekushey](https://ekushey.org)
+- [Ekushey](https://ekushey.org)
 
- [Otobi Keyboard](https://otobikb.github.io)
+- [Otobi Keyboard](https://otobikb.github.io)
 
- [FontBD](https://fontbd.com)
+- [FontBD](https://fontbd.com)
 
- [Bengali input methods](https://en.wikipedia.org/wiki/Bengali_input_methods)
+- [Bengali input methods](https://en.wikipedia.org/wiki/Bengali_input_methods)
