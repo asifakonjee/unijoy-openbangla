@@ -13,7 +13,7 @@
 
 - Install a prefered host
   - [Avro Keyboard](https://www.omicronlab.com/avro-keyboard.html) for windows
-  - [OpenBangla Keyboard](https://openbangla.github.io/) for windows & linux
+  - [OpenBangla Keyboard](https://openbangla.github.io/) for linux
 - Download UniJoy.avrolayout and install
 
 [**User Guide**](https://otobikb.github.io/elements/overview.pdf)
