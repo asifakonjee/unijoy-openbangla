@@ -26,6 +26,8 @@
 
 - [Otobi Keyboard](https://otobikb.github.io)
 
+- [Lipighor](https://lipighor.com)
+
 - [FontBD](https://fontbd.com)
 
 - [Bengali input methods](https://en.wikipedia.org/wiki/Bengali_input_methods)
