@@ -15,7 +15,7 @@ In this repo I only provided method to use with Avro. You are welcome to make po
 
 [Note: Version 5 refers to Avro keyboard layout filetype version.]
 
-[**User Guide**](overview.pdf)
+[**User Guide**](https://drive.google.com/open?id=1eJOLkFlPEqBkuHfKovStzjWg6iKLuuD9)
 
 [**Conjunction List**](https://ekushey.org/wp-content/uploads/2022/08/Bangla_Conjunction_Lists.pdf)
 
