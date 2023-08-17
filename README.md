@@ -1,26 +1,25 @@
-# UniJoy for Avro
+# Bongo Lipi Keyboard
 
-![KB-Bengali-UniJoy](https://user-images.githubusercontent.com/27731012/188329390-71789b79-3768-47b6-b0e3-f19002ecc112.svg)
+![Keyboard Bongo Lipi](https://github.com/Tarek-Hasan/Keyboard-Layouts-for-Avro/assets/27731012/84c78d68-5aa5-4b7c-a7b9-2617ec115bc0)
 
-[UniJoy](https://ekushey.org/keyboard-layout/ekusheyr-shadhinota-unijoy-layout/) is a Bijoy-compatible keyboard layout. It's developed by Ekushey Team. UniJoy 5 is a modified version of UniJoy to be more modern and easy to use. Version 5 refers to Avro keyboard layout filetype version.
+Bongo Lipi is a keyboard layout based on [UniJoy](https://ekushey.org/keyboard-layout/ekusheyr-shadhinota-unijoy-layout/), a Bijoy-compatible keyboard layout developed by Ekushey Team. It also heavily inspired by [Otobi Keyboard](https://github.com/OtobiCorp/Otobi_for_Windows_and_Linux). Bongo Lipi is designed to be more modern and easy to use. It also includes commonly used Historic signs and symbols.
 
-**Features:**
+In this repo I only provided method to use with Avro. You are welcome to make port to any input method software but always give credits to respective parties.
 
-- Modern and easy to use
-- Includes Historic signs and symbols
-
-**How to use**
+### How to use:
 
 - Install a prefered host
   - [Avro Keyboard](https://www.omicronlab.com/avro-keyboard.html) for windows
   - [OpenBangla Keyboard](https://openbangla.github.io/) for linux
-- Download UniJoy.avrolayout and install
+- Download Bongo-Lipi.avrolayout and install
 
-[**User Guide**](https://otobikb.github.io/elements/overview.pdf)
+[Note: Version 5 refers to Avro keyboard layout filetype version.]
+
+[**User Guide**](./overview.pdf)
 
 [**Conjunction List**](https://ekushey.org/wp-content/uploads/2022/08/Bangla_Conjunction_Lists.pdf)
 
-**Helpful Links:**
+### Helpful Links:
 
 - [Ekushey](https://ekushey.org)
 
