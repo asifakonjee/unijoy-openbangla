@@ -2,7 +2,7 @@
 
 ![Keyboard Bongo Lipi](https://github.com/Tarek-Hasan/Keyboard-Layouts-for-Avro/assets/27731012/84c78d68-5aa5-4b7c-a7b9-2617ec115bc0)
 
-Bongo Lipi is a keyboard layout based on [UniJoy](https://ekushey.org/keyboard-layout/ekusheyr-shadhinota-unijoy-layout/), a Bijoy-compatible keyboard layout developed by Ekushey Team. It also heavily inspired by [Otobi Keyboard](https://github.com/OtobiCorp/Otobi_for_Windows_and_Linux). Bongo Lipi is designed to be more modern and easy to use. It also includes commonly used Historic signs and symbols.
+Bongo Lipi is a keyboard layout based on [UniJoy](https://ekushey.org/keyboard-layout/ekusheyr-shadhinota-unijoy-layout/), developed by Ekushey Team. It also heavily inspired by [Otobi Keyboard](https://github.com/OtobiCorp/Otobi_for_Windows_and_Linux). Bongo Lipi is designed to be more modern and easy to use. It also includes commonly used Historic signs and symbols.
 
 In this repo I only provided method to use with Avro. You are welcome to make port to any input method software but always give credits to respective parties.
 
